@@ -271,7 +271,7 @@ const Index = () => {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 text-lg px-8"
+                  className="border-primary-foreground text-primary hover:bg-primary-foreground/10 text-lg px-8"
                 >
                   Support Our Mission
                 </Button>
